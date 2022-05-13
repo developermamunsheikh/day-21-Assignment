@@ -1,0 +1,9 @@
+.carousel-caption {
+  
+    bottom: 44%;
+
+}
+.col-auto {
+    flex: 3 0 auto;
+    width: auto;
+}
